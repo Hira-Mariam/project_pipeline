@@ -18,6 +18,6 @@ version = '0.0.1',
 author='hira mariam',
 author_email='hiramariam@neduet.edu.pk',
 packages=find_packages(),
-install_requirements = get_requirements('requirements.txt')
+install_requires = get_requirements('requirements.txt')
 
 )
